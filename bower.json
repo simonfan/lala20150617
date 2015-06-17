@@ -1,0 +1,20 @@
+{
+  "name": "projeto-bower-teste",
+  "version": "0.0.0",
+  "authors": [
+    "Simon <simonxd@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.1",
+    "ionic": "~1.0.0"
+  }
+}
